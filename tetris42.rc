@@ -1,0 +1,23 @@
+TET_ICON ICON "tetris42.ico"
+
+1 VERSIONINFO
+FILEVERSION     0,0,2,0
+PRODUCTVERSION  0,0,2,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"	// English US
+    BEGIN
+      VALUE "FileDescription", "github.com/tpanj"
+      VALUE "FileVersion", "0.0.2"
+      VALUE "InternalName", "tetris42"
+      VALUE "LegalCopyright", "(c) 2023 Tadej Panjtar (@tpanj)"
+      VALUE "ProductName", "tetris42"
+      VALUE "ProductVersion", "0.0.2"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252	// English US
+  END
+END

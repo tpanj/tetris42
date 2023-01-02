@@ -4,6 +4,10 @@ Tetris tournament for up to 4 players. After a while the game moves on to more c
 
 ## [Releases download](https://github.com/tpanj/tetris42/releases) 
 
+Packages on link above cointains five executables. Four of them in format `tetris4-n` are for up to four seperate clickable executables for `n` number of players with generic names (PLAYERn).
+
+If you want personalized names, use `tetris42 <Players>` where you provide up to four Players names seperated with space. Example below.
+
 ![Screenshot for two players](tetris42.png)
 
 ## Controls: __Rotate, movements.._
